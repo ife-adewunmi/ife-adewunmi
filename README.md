@@ -8,7 +8,7 @@
 ### Career Objectives
 <hr>
 <p>
-    Experienced Software Developer with 5+ years of experience in the field of Web Technology with expertise in Software Development Life Cycle (SDLC) with an emphasis in current PHP frameworks, JavaScript and .NET.
+    Experienced Software Developer with 5+ years of experience in the field of Web Technology with expertise in Software Development Life Cycle (SDLC) with an emphasis in current PHP frameworks and JavaScript.
 </p>
 
 <br>
