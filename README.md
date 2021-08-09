@@ -20,14 +20,14 @@
     <hr>
     <br>    
 
-    ●	Expertly Proficient in PHP frameworks (Laravel, Codeigniter, Slim, Symfony)
-    ●	Expertly Proficient in other languages and frameworks (C#, .Net Core, Entity Framework  HTML, CSS, Vue Js, Nuxt Js, Javascript & AJAX, MySQL)
-    ●	Proficient in Content Management Systems (WordPress & October CMS)
+    ●	Expertly Proficient in PHP OOP and frameworks such as (Laravel, Codeigniter, Cake)
+    ●	Expertly Proficient in other languages and frameworks (HTML, CSS, Javascript, MySQL and NoSQL(MongoDb))
+    ●	Proficient in Content Management Systems Applications (WordPress & October CMS)
     ●	Profound knowledge of development tools and environment like GIT, Postman, Docker (Laradock) and Pentaho BI
     ●	Advanced knowledge of relational databases system, Laravel repository pattern, and Restful API
     ●	Strong understanding & knowledge of Object Oriented concepts
     ●	Experience building complex and scalable PHP applications, online communities, SaaS and modern CMS from scratch.
-    ●	Strong knowledge in design patterns (Observer, MVC, ...)
+    ●	Strong knowledge in design patterns (MVC)
     ●	Lover of Clean Code, DRY and SOLID principles. Also, passionate about writing secure, testable and scalable applications, following the best coding practices.
 </details>
 
@@ -54,7 +54,7 @@
     <br>
     <p><strong>Olivearc Solutions, Ogun, Nigeria</strong></p>
     <p><small><em>November 2018 – July 2019</em></small></p>
-    <p><strong>Chief Technology Officer (CTO)</strong></p>
+    <p><strong>Software Engineer</strong></p>
     <p>-------------------------------------------------------------------------------------</p>
     <br>
     <p><strong>Incattech Fashion</strong></p>
@@ -78,12 +78,14 @@
     </summary>
     <hr>
 
-✔️ <a href="https://www.kingswealths.com" target="_blank" rel="noopener">kingswealths</a>
+✔️ <a href="https://www.kingswealths.com" target="_blank" rel="noopener">Kingswealths</a>
 
-✔️ <a href="https://www.oeaconsults.com" target="_blank" rel="noopener">oeaconsults</a>
+✔️ <a href="https://www.dudgital.com" target="_blank" rel="noopener">Dudgital</a>
 
-✔️ <a href="https://www.frmsng.com" target="_blank" rel="noopener">frmsng</a>
+✔️ <a href="https://www.frmsng.com" target="_blank" rel="noopener">Frmsng</a>
 
-✔️ <a href="https://www.xkgintegratedservices.com.ng" target="_blank" rel="noopener">xkg integrated services</a>
+✔️ <a href="https://www.xkgintegratedservices.com.ng" target="_blank" rel="noopener">Xkg integrated services</a>
+
+✔️ <a href="https://www.github.com/blackframework" target="_blank" rel="noopener">Xkg integrated services</a>
 
 </details>
