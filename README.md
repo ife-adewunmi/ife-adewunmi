@@ -1,76 +1,61 @@
-# Ifeoluwa Adewunmi
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ifeoluwa Adewunmi!
 
+---
 
-## Software Programming Professional
+![twitter-follower](https://img.shields.io/twitter/follow/ife_adewunmi?style=social) 
+<!-- ![img](https://img.shields.io/youtube/channel/subscribers/UCl1IRCSmm74qhcFNPTHcbMg?label=YouTube%20Subscribers&style=social) ![img](https://img.shields.io/youtube/channel/views/UCl1IRCSmm74qhcFNPTHcbMg?label=Total%20views%20on%20my%20YouTube%20Channel&style=social) -->
 
-<br>
+---
 
 ### Career Objectives
-<hr>
+
 <p>
-    Experienced Software Developer with 5+ years of experience in the field of Web Technology with expertise in Software Development Life Cycle (SDLC) with an emphasis in current PHP frameworks and JavaScript.
+Experienced Software Engineer with 5+ years of experience in the field of Web Technology specializing in PHP, JavaScript technologies. Professional experience with the technologies listed in the **toolbox** below.
+</p>
+<p>
+I create tech content, mostly about Web Development, PHP, JavaScript and Interview tips, **but** I also talk about other topics than coding. I'd advise you to subscribe to stay up-to-date!
 </p>
 
-<br>
+I have not been the online type so I really don't have online presence. Although, I share my knowledge on my [Blog](https://ia-phpportfolio.000webhostapp.com/#blog) and [YouTube](https://youtube.com/channel/UCfSlEojNHuqWuQ4bPsB4Xig) channel. Looking forward to reaching and helping more people by sharing my knowledge.
+</p>
 
-<details open>
-    <summary>
-        <strong>Areas of Expertise</strong>
-    </summary>
-    <hr>
-    <br>    
+---
+### 🧰 Toolbox
 
-    ●	Expertly Proficient in PHP OOP and frameworks such as (Laravel, Codeigniter, Cake)
-    ●	Expertly Proficient in other languages and frameworks (HTML, CSS, Javascript, MySQL and NoSQL(MongoDb))
-    ●	Proficient in Content Management Systems Applications (WordPress & October CMS)
-    ●	Profound knowledge of development tools and environment like GIT, Postman, Docker (Laradock) and Pentaho BI
-    ●	Advanced knowledge of relational databases system, Laravel repository pattern, and Restful API
-    ●	Strong understanding & knowledge of Object Oriented concepts
-    ●	Experience building complex and scalable PHP applications, online communities, SaaS and modern CMS from scratch.
-    ●	Strong knowledge in design patterns (MVC)
-    ●	Lover of Clean Code, DRY and SOLID principles. Also, passionate about writing secure, testable and scalable applications, following the best coding practices.
-</details>
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-plain-wordmark.svg" alt="BoostrapCSS" width="50" height="50"/>  -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/> -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
 
-<details>
-    <summary>
-        <strong>Work Experience </strong>
-    </summary>
-    <hr>
-    <br>
-    <p><strong>Financial Control & Risk Management Services (FRMS), Lagos, Nigeria</strong></p>
-    <p><small><em>September 2020 – Date</em></small></p>
-    <p><strong>Software Developer</strong></p>
-    <p>-------------------------------------------------------------------------------------</p>
-    <br>
-    <p><strong>XKG Integrated Services</strong></p>
-    <p><small><em></em></small></p>
-    <p><strong>Consultant - Software Developer (PHP)</strong></p>
-    <p>-------------------------------------------------------------------------------------</p>
-    <br>
-    <p><strong>OEA Consults Ltd, Lagos, Nigeria</strong></p>
-    <p><small><em>August 2019 – May 2020</em></small></p>
-    <p><strong>Full-Stack Web Developer (Freelance)</strong></p>
-    <p>-------------------------------------------------------------------------------------</p>
-    <br>
-    <p><strong>Olivearc Solutions, Ogun, Nigeria</strong></p>
-    <p><small><em>November 2018 – July 2019</em></small></p>
-    <p><strong>Software Engineer</strong></p>
-    <p>-------------------------------------------------------------------------------------</p>
-    <br>
-    <p><strong>Incattech Fashion</strong></p>
-    <p><small><em></em></small></p>
-    <p><strong>Software Engineer</strong></p>
-</details>
+---
 
-<details>
-    <summary>
-        <strong>Education & Credentials</strong>
-    </summary>
-    <hr>
-    <br>
-    <p><strong>B.Sc (Hons) in Computer Science (Upper Second Class)</strong> <small>2017</small></p>
-    <p>Tai Solarin University Of Education, Ogun State, Nigeria</p>
-</details>
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+➡️ [more videos...](https://youtube.com/channel/UCfSlEojNHuqWuQ4bPsB4Xig)
+
+---
+
+<!-- ### 📕 Latest Blog Posts -->
+
+<!-- BLOG-POST-LIST:START -->
+<!-- - [How To Solve Laravel 8 API Response that is returning welcome page instead of JSON](https://ia-phpportfolio.000webhostapp.com/post/1-how-to-solve-laravel-8-api-response-that-is-returning-welcome-page-instead-of-json) -->
+<!-- - [My 9 Must-Have Browser Extensions For Increased Developer Productivity](https://catalins.tech/my-9-must-have-browser-extensions-for-increased-developer-productivity)
+- [20 Best Places To Learn Programming For Free](https://catalins.tech/20-best-places-to-learn-programming-for-free) -->
+<!-- - [Getting Started With Open-Source: How To Contribute](https://catalins.tech/getting-started-with-open-source-how-to-contribute) -->
+<!-- - [5 Tips You Want To See If You Work Remotely](https://catalins.tech/5-tips-you-want-to-see-if-you-work-remotely) -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- ➡️ [more blog posts...](https://ia-phpportfolio.000webhostapp.com/#blog) -->
+
+---
 
 <details>
     <summary>
@@ -86,6 +71,13 @@
 
 ✔️ <a href="https://www.xkgintegratedservices.com.ng" target="_blank" rel="noopener">Xkg integrated services</a>
 
-✔️ <a href="https://www.github.com/blackframework" target="_blank" rel="noopener">Xkg integrated services</a>
-
 </details>
+
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/ife-adewunmi/ife-adewunmi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ife-adewunmi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/ife-adewunmi/ife-adewunmi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ife-adewunmi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
