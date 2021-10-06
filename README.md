@@ -3,7 +3,14 @@
 
 ## About me
 
-Software development has been my passion for years. I've always been building stuff to help others learn, build communities, or even just for fun.
+I love the idea of being able to create a future that I imagine. Before now, I say software engineering is my passion but of the truth, it’s not. My passion lies in:
+
+**Creating**,
+**Solving Problems**,
+**Paying attention to details**,
+**Impacting lives**
+
+I love software engineering because this process of creation is the daily practice of an engineer and we can use it to create the future in any context. I've always been building stuff to help others learn, build communities, and even just for fun.
 
 - 👨‍💻 Writing codes for about **6+ years**
 - 🧰 My favorite programming language is **PHP**
