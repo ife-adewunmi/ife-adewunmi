@@ -1,5 +1,5 @@
 <!-- ![Ifeoluwa Adewunmi - Software Engineer](./banner.png) -->
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ifeoluwa Adewunmi!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I am Ifeoluwa Adewunmi!
 
 ## About me
 
@@ -42,12 +42,12 @@ Given that I didn't forget to add something 😆, below are snapshots of the tec
 ### Providers
 
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=101010)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=101010)
 
 <!--
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=101010)
 ![OVH](https://img.shields.io/badge/-OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white&labelColor=101010)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)
 -->
 
@@ -57,7 +57,7 @@ Given that I didn't forget to add something 😆, below are snapshots of the tec
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=react%20router&logoColor=white&labelColor=101010)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=101010)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-43853d?style=for-the-badge&logo=tailwind%20css&logoColor=white&labelColor=101010)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=101010)
 ![jQuery](https://img.shields.io/badge/-jQuery-007ACC?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
