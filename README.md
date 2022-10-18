@@ -122,7 +122,7 @@ A responsive web application for a branding agency.
 - WEB: https://www.dudgital.com
 - GitHub: 
 
-### CareerGL - Branding firm
+### CareerGL
 
 A community effort to create career paths, guides and other educational content to help guide individuals not to be confused about what to learn next.
 
@@ -130,26 +130,6 @@ A community effort to create career paths, guides and other educational content 
 
 - WEB: [CareerGL](https://careergl.vercel.app/)
 - GitHub: https://github.com/boluwatifeBE/careerGL
-
-
-<!-- ### ![Atom - Periodic Table & Tests](./atom.png)
-
-A Progressive Web App that has already helped more than 70.000 students across the world. Its main focus is to make it easier to learn some fundamental aspects of chemistry, such as the Periodic Table.
-
-**Links**
-
-- PWA: https://atom.horuslugo.com
-- Play Store: https://play.google.com/store/apps/details?id=tk.horusgoul.valenciasquimicas
-- GitHub: https://github.com/horusgoul/atom-pwa
-
-### ![Kiddle](./kiddle.png)
-
-A platform built to empower interest-based communities. I'm planning on open-sourcing it once its development resumes.
-
-**Links**
-
-- PWA: https://kiddle.xyz
-- GitHub: Soon™️ -->
 
 ## Find me on
 
