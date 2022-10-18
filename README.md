@@ -104,7 +104,6 @@ Given that I didn't forget to add something 😆, below are snapshots of the tec
 
 Here are the best projects of my portfolio, soon to be expanded with new exciting additions 🚀
 
-<!-- ### ![Kingswealths - ](./atom.png) -->
 ### Kingswealths - 
 
 A responsive web application for a an .
@@ -112,10 +111,8 @@ A responsive web application for a an .
 **Links**
 
 - WEB: https://www.kingswealths.com
-- Play Store: Coming Soon
-- GitHub: Coming Soon
+- GitHub: 
 
-<!-- ### ![Dudgital - ](./atom.png) -->
 ### Dudgital - Branding firm
 
 A responsive web application for a branding agency.
@@ -123,8 +120,16 @@ A responsive web application for a branding agency.
 **Links**
 
 - WEB: https://www.dudgital.com
-- Play Store: Coming Soon
-- GitHub: Coming Soon
+- GitHub: 
+
+### CareerGL - Branding firm
+
+A community effort to create career paths, guides and other educational content to help guide individuals not to be confused about what to learn next.
+
+**Links**
+
+- WEB: [CareerGL](https://careergl.vercel.app/)
+- GitHub: https://github.com/boluwatifeBE/careerGL
 
 
 <!-- ### ![Atom - Periodic Table & Tests](./atom.png)
