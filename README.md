@@ -3,7 +3,7 @@
 
 ## About me
 
-I love the idea of being able to create a future that I imagine. Before now, I say software engineering is my passion but of the truth, it’s not. My passion lies in:
+I love the idea of being able to create a future that I imagine. My passion lies in:
 
 **Creating**,
 **Solving Problems**,
