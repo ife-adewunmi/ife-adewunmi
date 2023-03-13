@@ -12,7 +12,7 @@ I love the idea of being able to create a future that I imagine. My passion lies
 
 I love software engineering because this process of creation is the daily practice of an engineer and we can use it to create the future in any context. I've always been building stuff to help others learn, build communities, and even just for fun.
 
-- 👨‍💻 Writing codes for about **6+ years**
+- 👨‍💻 Writing codes for almost **a decade**
 - 🧰 My favorite programming language is **PHP**
 <!--- 💼 Working at **Z1 Digital Studio**-->
 - 🏠 Living at **Lagos, Nigeria**
