@@ -1,5 +1,5 @@
 <!-- ![Ifeoluwa Adewunmi - Software Engineer](./banner.png) -->
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I am Ifeoluwa Adewunmi!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I am Ifeoluwa Adewunmi!
 
 ## About me
 
