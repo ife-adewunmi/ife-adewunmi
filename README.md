@@ -119,7 +119,7 @@ A responsive web application for a branding agency.
 
 **Links**
 
-- WEB: https://www.dudgital.com
+- WEB: 
 - GitHub: 
 
 ### CareerGL
