@@ -143,9 +143,6 @@ Do you have questions related to web development? slide to DM on Twitter! I'll r
 [![Hashnode](https://img.shields.io/badge/-@Ife__adewunmi-007ACC?style=for-the-badge&logo=Hashnode&logoColor=white&labelColor=101010)](https://hashnode.com/ife_adewunmi)
 <!-- [![My Website](https://img.shields.io/badge/-iajohn.dev​​-007ACC?style=for-the-badge&logo=about.me&logoColor=white&labelColor=101010)](https://ia-phpportfolio.000webhostapp.com/) -->
 
-<!-- 
-[![My Website](https://img.shields.io/badge/-horus.dev​​-805ad5?style=for-the-badge&logo=about.me&logoColor=white&labelColor=101010)](https://horus.dev)
--->
 
 <!-- ## Support me -->
 
@@ -155,13 +152,13 @@ Do you have questions related to web development? slide to DM on Twitter! I'll r
 
 ## &#x1f4c8; My GitHub Stats
 
- [![Julius's github activity graph](https://activity-graph.herokuapp.com/graph?username=JuliRash&theme=xcode)](https://git.io/starlightknown)
+[![github activity graph](https://activity-graph.herokuapp.com/graph?username=ife-adewunmi&theme=xcode)](https://git.io/starlightknown)
 <p align="center">
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ife-adewunmi&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ife-adewunmi&theme=tokyonight" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ife-adewunmi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ife-adewunmi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ife-adewunmi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=ife-adewunmi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </p>
