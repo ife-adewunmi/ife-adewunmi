@@ -152,7 +152,6 @@ Do you have questions related to web development? slide to DM on Twitter! I'll r
 
 ## &#x1f4c8; My GitHub Stats
 
-[![github activity graph](https://activity-graph.herokuapp.com/graph?username=ife-adewunmi&theme=xcode)](https://git.io/starlightknown)
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ife-adewunmi&theme=tokyonight" />
 </p>
