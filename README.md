@@ -53,16 +53,22 @@ Given that I didn't forget to add something 😆, below are snapshots of the tec
 
 ### Front-end
 
-- **HTML**
+**HTML**
+</br>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 
-- **CSS**
+**CSS**
+</br>
+
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-43853d?style=for-the-badge&logo=tailwind%20css&logoColor=white&labelColor=101010)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=101010)
 
-- **JS**
+**JS**
+</br>
+
 ![jQuery](https://img.shields.io/badge/-jQuery-007ACC?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)
 ![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)
@@ -132,10 +138,10 @@ A community effort to create career paths, guides and other educational content 
 
 Do you have questions related to web development? slide to DM on Twitter! I'll reply to you ASAP 🤓
 
-[![Twitter](https://img.shields.io/badge/-@Ife__adewunmi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/ife_adewunmi)
+[![Twitter](https://img.shields.io/badge/-@Ife__adewunmi-1DA1F2?target=_blank&style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/ife_adewunmi)
 [![YouTube](https://img.shields.io/badge/-@Ife__adewunmi-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/channel/UCfSlEojNHuqWuQ4bPsB4Xig)
 [![Hashnode](https://img.shields.io/badge/-@Ife__adewunmi-007ACC?style=for-the-badge&logo=Hashnode&logoColor=white&labelColor=101010)](https://hashnode.com/ife_adewunmi)
-[![My Website](https://img.shields.io/badge/-iajohn.dev​​-007ACC?style=for-the-badge&logo=about.me&logoColor=white&labelColor=101010)](https://ia-phpportfolio.000webhostapp.com/)
+<!-- [![My Website](https://img.shields.io/badge/-iajohn.dev​​-007ACC?style=for-the-badge&logo=about.me&logoColor=white&labelColor=101010)](https://ia-phpportfolio.000webhostapp.com/) -->
 
 <!-- 
 [![My Website](https://img.shields.io/badge/-horus.dev​​-805ad5?style=for-the-badge&logo=about.me&logoColor=white&labelColor=101010)](https://horus.dev)
