@@ -13,13 +13,13 @@ I love the idea of being able to create a future that I imagine. My passion lies
 I love software engineering because this process of creation is the daily practice of an engineer and we can use it to create the future in any context. I've always been building stuff to help others learn, build communities, and even just for fun.
 
 - 👨‍💻 Writing codes for almost **a decade**
-- 🧰 My favorite programming language is **PHP**
-<!--- 💼 Working at **Z1 Digital Studio**-->
+- 🧰 My favourite programming languages is **PHP** and **JavaScript**
+- 💼 Working at **Z1 Digital Studio**-->
 - 🏠 Living at **Lagos, Nigeria**
 - 😄 My pronouns are **he/him**
-<!--- 🐱 **Cat** person-->
-<!--- 🏓 Great **Ping Pong** player-->
-<!--- 🎧 I love listening to [**Adagio For Strings by Tiësto**](https://www.youtube.com/watch?v=ZXA6DvfgzrI)-->
+- 🐱 **Cat** and 🐶 **Dog** person
+- 🎧 I love listening to music
+- Good **PlayStation** player
 
 ## Tech stack
 
@@ -53,21 +53,24 @@ Given that I didn't forget to add something 😆, below are snapshots of the tec
 
 ### Front-end
 
-![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)
-![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=react%20router&logoColor=white&labelColor=101010)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=101010)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-43853d?style=for-the-badge&logo=tailwind%20css&logoColor=white&labelColor=101010)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=101010)
-![jQuery](https://img.shields.io/badge/-jQuery-007ACC?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)
-![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
+- **HTML**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 
-<!-- 
-![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&labelColor=101010)
-![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white&labelColor=101010)
+- **CSS**
+![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-43853d?style=for-the-badge&logo=tailwind%20css&logoColor=white&labelColor=101010)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=101010)
 
--->
+- **JS**
+![jQuery](https://img.shields.io/badge/-jQuery-007ACC?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)
+![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=101010)
+![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=react%20router&logoColor=white&labelColor=101010)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+
 
 ### Back-end
 
@@ -77,28 +80,22 @@ Given that I didn't forget to add something 😆, below are snapshots of the tec
 ![MongoDb](https://img.shields.io/badge/-MongoDb-0F9D58?style=for-the-badge&logo=MongoDb&logoColor=white&labelColor=101010)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white&labelColor=101010)
 ![Apache](https://img.shields.io/badge/-Apache-CC6699?style=for-the-badge&logo=apache&logoColor=white&labelColor=101010)
-<!--
 ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=101010)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=101010)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=101010)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)logo=docker&logoColor=white&labelColor=101010)
--->
+
 
 ### Other tools
 
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white&labelColor=101010)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white&labelColor=101010)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white&labelColor=101010)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white&labelColor=101010)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=101010)
 ![Google](https://img.shields.io/badge/-Google-0F9D58?style=for-the-badge&logo=Google&logoColor=white&labelColor=101010)
 
-
-<!-- 
-![Rollup](https://img.shields.io/badge/-Rollup-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white&labelColor=101010)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=101010)
-![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white&labelColor=101010)
-![Puppeteer](https://img.shields.io/badge/-Puppeteer-01D29E?style=for-the-badge&logo=puppet&logoColor=white&labelColor=101010) 
--->
 
 ## My projects
 
@@ -141,7 +138,6 @@ Do you have questions related to web development? slide to DM on Twitter! I'll r
 [![My Website](https://img.shields.io/badge/-iajohn.dev​​-007ACC?style=for-the-badge&logo=about.me&logoColor=white&labelColor=101010)](https://ia-phpportfolio.000webhostapp.com/)
 
 <!-- 
-[![Twitch](https://img.shields.io/badge/-HorusGoul-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/horusgoul)
 [![My Website](https://img.shields.io/badge/-horus.dev​​-805ad5?style=for-the-badge&logo=about.me&logoColor=white&labelColor=101010)](https://horus.dev)
 -->
 
@@ -153,9 +149,13 @@ Do you have questions related to web development? slide to DM on Twitter! I'll r
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/ife-adewunmi/ife-adewunmi">
+ [![Julius's github activity graph](https://activity-graph.herokuapp.com/graph?username=JuliRash&theme=xcode)](https://git.io/starlightknown)
+<p align="center">
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ife-adewunmi&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ife-adewunmi&theme=tokyonight" />
+</p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ife-adewunmi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/ife-adewunmi/ife-adewunmi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ife-adewunmi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
-</a>
+</p>
