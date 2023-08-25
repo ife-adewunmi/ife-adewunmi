@@ -154,11 +154,9 @@ Do you have questions related to web development? slide to DM on Twitter! I'll r
 
 [![github activity graph](https://activity-graph.herokuapp.com/graph?username=ife-adewunmi&theme=xcode)](https://git.io/starlightknown)
 <p align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ife-adewunmi&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ife-adewunmi&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ife-adewunmi&theme=tokyonight" />
 </p>
 <p align="center">
-  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ife-adewunmi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=ife-adewunmi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ife-adewunmi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=ife-adewunmi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </p>
