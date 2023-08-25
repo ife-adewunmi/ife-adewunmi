@@ -14,7 +14,7 @@ I love software engineering because this process of creation is the daily practi
 
 - 👨‍💻 Writing codes for almost **a decade**
 - 🧰 My favourite programming languages is **PHP** and **JavaScript**
-- 💼 Working at **Z1 Digital Studio**-->
+- 💼 Working at **Mercury Holidays**
 - 🏠 Living at **Lagos, Nigeria**
 - 😄 My pronouns are **he/him**
 - 🐱 **Cat** and 🐶 **Dog** person
